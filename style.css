@@ -4,6 +4,12 @@
     padding-left: .5rem;
     
 }
-.card img{ 
-    width:75%;
+.head-font{ 
+    font-size: 50px;
+}
+.btn-area{ 
+    background-color:#A4BC46;
+    color:white;
+    padding:15px 30px;
+    border-radius: 10px;
 }
