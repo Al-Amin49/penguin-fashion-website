@@ -12,6 +12,9 @@ body{
     padding-left: .5rem;
     
 }
+.padding-bottom{ 
+    padding-bottom: 100px;
+}
 .head-font{ 
     font-size: 50px;
 }
